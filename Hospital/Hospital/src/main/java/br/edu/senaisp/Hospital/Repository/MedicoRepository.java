@@ -7,5 +7,7 @@ import br.edu.senaisp.Hospital.Model.Medico;
 
 @Repository
 public interface MedicoRepository extends JpaRepository<Medico, Integer> {
+	
+
 
 }
